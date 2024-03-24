@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "parcel build src/components/App.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
